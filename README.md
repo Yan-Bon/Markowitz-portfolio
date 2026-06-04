@@ -37,5 +37,3 @@ The project demonstrates the practical application of modern portfolio theory, s
 ## Visualization
 <img width="855" height="547" alt="image" src="https://github.com/user-attachments/assets/b5ff634c-abc5-4aa2-8bc9-b7ea6959df80" />
 
-<img width="846" height="547" alt="image" src="https://github.com/user-attachments/assets/e2235812-a897-45f1-a645-4bd93b200f27" />
-
